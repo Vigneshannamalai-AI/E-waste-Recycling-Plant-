@@ -11,3 +11,9 @@ Live site: https://vigneshannamalai-ai.github.io/E-waste-Recycling-Plant-/
 A second proposal site, in the `garbage/` folder, built in the same format and protected the same way.
 
 Live site: https://vigneshannamalai-ai.github.io/E-waste-Recycling-Plant-/garbage/
+
+## Medical Waste Recycling Plant, Chennai
+
+A third proposal site, in the `medical/` folder, built in the same format and protected the same way.
+
+Live site: https://vigneshannamalai-ai.github.io/E-waste-Recycling-Plant-/medical/
