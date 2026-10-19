@@ -16,4 +16,4 @@ Live site: https://vigneshannamalai-ai.github.io/E-waste-Recycling-Plant-/garbag
 
 A third proposal site, in the `medical/` folder, built in the same format and protected the same way.
 
-Live site: https://vigneshannamalai-ai.github.io/E-waste-Recycling-Plant-/medical/
+Live site: https://vigneshannamalai-ai.github.io/E-waste-Recycling-Plant-/medical/?v=2
