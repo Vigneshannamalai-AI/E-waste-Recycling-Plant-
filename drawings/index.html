@@ -46,7 +46,7 @@ button:disabled{opacity:.6}.err{color:var(--copper);font-size:14px;min-height:20
   <div id="sheets" style="display:grid;gap:22px"></div>
 </div>
 <script>
-const SALT="CCaQueSrnweGXfcMj8XDsg==",N=600000;
+const SALT="IoTXQx0gLOMk7o3LuKx+IQ==",N=600000;
 const u=s=>Uint8Array.from(atob(s),c=>c.charCodeAt(0));
 let KEY=null;
 async function key(pw){const k0=await crypto.subtle.importKey('raw',new TextEncoder().encode(pw),'PBKDF2',false,['deriveKey']);
