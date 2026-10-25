@@ -8,7 +8,7 @@ Live site: https://vigneshannamalai-ai.github.io/E-waste-Recycling-Plant-/
 
 ## Plant drawings
 
-The architectural drawing set (revision P6, 11 sheets: site plan, fire-safety plan, main hall and machine layout, admin floors, refinery, utilities, raw e-waste store and canteen) is in the `drawings/` folder. Each sheet image and the combined PDF are stored encrypted (`.enc`, AES-256-GCM, same password and key derivation as the proposal) and are decrypted in the browser after unlocking. The proposal's Plant section links to it.
+The architectural drawing set (revision P7, 11 sheets: site plan, fire-safety plan, main hall and machine layout, admin floors, refinery, utilities, raw e-waste store and canteen) is in the `drawings/` folder. Each sheet image and the combined PDF are stored encrypted (`.enc`, AES-256-GCM, same password and key derivation as the proposal) and are decrypted in the browser after unlocking. The proposal's Plant section links to it.
 
 Live page: https://vigneshannamalai-ai.github.io/E-waste-Recycling-Plant-/drawings/
 
